@@ -1,5 +1,6 @@
 print("alhamdulillah")
-def intro(name):
-    print(name)
+def intro(name,Skills):
+    print("My name is: " , name)
+    print("I am interested in :" , Skills)
 
-intro("asma")
+intro("Mozma Abid" ,"Frontend Development")
