@@ -11,3 +11,9 @@ def mul(num1,num2):
     print("Multiply: ",num1*num2)
 
 mul(2,3)
+
+def sum(num1,num2):
+    return num1+num2
+
+result=sum(3,4)
+print(result)
